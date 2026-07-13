@@ -21,4 +21,4 @@ relevant guide section and the code that implements it.
 | [§11 Residency checklist](GUIDE.md#11-security-privacy-and-residency--poc-checklist-for-anz) | `POC_REGION` + provider abstraction; redacted audit log |
 | [§12 Worked example](GUIDE.md#12-worked-example--5-week-poc-outline-retail-bank-staff-policy--complaints-assist) | Same retail-bank staff assist scenario |
 
-When you publish the LinkedIn article, add the public GitHub URL here and in the article “After you publish” section.
+Public repository: <https://github.com/PITCHUMANIS/anz-fs-ai-poc-skeleton>
