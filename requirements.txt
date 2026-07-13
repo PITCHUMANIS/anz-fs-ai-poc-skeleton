@@ -1,0 +1,2 @@
+# Stdlib-only runtime. pytest is optional for local verification.
+# pip install pytest

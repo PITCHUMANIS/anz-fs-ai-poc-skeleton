@@ -1,0 +1,17 @@
+[project]
+name = "anz-fs-ai-poc-skeleton"
+version = "0.1.0"
+description = "Illustrative ANZ financial services AI PoC skeleton (synthetic data only)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0,<9"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
